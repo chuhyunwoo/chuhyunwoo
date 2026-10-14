@@ -4,7 +4,8 @@
 
 ### 프로젝트 소개
 ### 스마트 미러 체형 교정
+<img width="1887" height="940" alt="image" src="https://github.com/user-attachments/assets/e7c7293a-45b0-4f21-8d9b-bb104d7ba315" />
 
 
 REPO 주소 : https://github.com/chuhyunwoo?tab=repositories
-실행 링크 : file:///C:/Users/504/Downloads/index.html
+실행 링크 : https://chuhyunwoo.github.io/SMARTEXERCISES/
